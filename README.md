@@ -8,11 +8,13 @@ A simple, safe, sane operations guide for boring releases
 
 3. All code is reviewed by at least one person
 
-4. Releases should be reviewed by zero people or at least two people.
+4. If its not done by 2pm its not going out today: https://www.linkedin.com/pulse/what-your-2-oclock-rule-james-shin-9xhlc/
+
+5. Releases should be reviewed by zero people or at least two people.
 
    One person is prone to mistakes
 
-5. Point-and-call all commands as part of a release
+6. Point-and-call all commands as part of a release
 
    Say the following out loud - "I am about to delete our production servers". That should fill you with dread, or worry any eavesdropping co-workers around you.
    [Pointing-and-calling](https://en.wikipedia.org/wiki/Pointing_and_calling) actions before taking them is shown to reduce errors by 85%, because your hand, eyes, mouth and ears are all in action.
